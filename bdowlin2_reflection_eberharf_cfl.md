@@ -2,7 +2,7 @@
 
 ## Observed activity
 
-The complete WoC project manifest contains **1,138 commits** and **14 distinct author strings**, from 2020-07-17 through 2025-05-07. The longest inactivity gap is **2022-05 through 2023-11 (19 months)**. There are **2 gaps of at least three months** and **29 commits after the longest gap**. Counts cover the first through last observed WoC month, without adding trailing inactivity.
+The analyzed WoC records contain **1,138 commits** and **14 distinct author strings**, from 2020-07-17 through 2025-05-07. The longest observed inactivity gap is **2022-05 through 2023-11 (19 months)**, followed by **29 retrieved commits**. There are **2 gaps of at least three months**. Counts cover the first through last observed WoC month, without adding trailing inactivity. See `WOC_DATA_EXCEPTIONS.md` for the TA-approved use of retrieved data and the 54 documented unavailable objects across three projects.
 
 **Activity pattern: declining.** Activity rises to large monthly bursts in early 2021, then falls sharply. The December 2023 restart and scattered 2024-2025 commits remain far below that initial intensity, so the overall trajectory is declining. There are two gaps of at least three months.
 
@@ -18,7 +18,7 @@ The complete WoC project manifest contains **1,138 commits** and **14 distinct a
 
 **Contributors:** All ten immediate post-gap commits use Iman Wahle, who also authored all ten pre-gap sampled commits. The restart is driven by an existing author identity. Names/emails are Git author metadata; raw author-string counts are not deduplicated person counts.
 
-The zero-month interval is straightforward to identify from complete data, but the causal interpretation is harder: commit messages show what changed, not necessarily why work stopped. The boundary-window search returned ten issues, all opened April 2, 2022. Issues #24 and #25 propose density-estimation extensions; #29 requests broader platform testing, and #30 discusses clustering behavior for new data. They document a development roadmap, not proof that these requests caused the pause or were addressed by the restart. No README.md commits were returned within the window. The activity gap is clear, but its cause is harder to interpret without an explicit maintainer statement.
+The monthly counts locate any zero-month interval in the analyzed records, but commit messages show what changed, not necessarily why work stopped. The boundary-window search returned ten issues, all opened April 2, 2022. Issues #24 and #25 propose density-estimation extensions; #29 requests broader platform testing, and #30 discusses clustering behavior for new data. They document a development roadmap, not proof that these requests caused the pause or were addressed by the restart. No README.md commits were returned within the window. The activity gap is clear, but its cause is harder to interpret without an explicit maintainer statement.
 
 Supporting checks: [issues/PRs created in the boundary window](https://api.github.com/search/issues?q=repo%3Aeberharf%2Fcfl+created%3A2022-04-01..2023-12-31&per_page=30) and [README history or inspected change](https://api.github.com/repos/eberharf/cfl/commits?path=README.md&since=2022-04-01T00%3A00%3A00Z&until=2023-12-31T23%3A59%3A59Z&per_page=30). The search uses creation dates and does not exhaust later comments on older issues.
 

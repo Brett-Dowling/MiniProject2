@@ -2,7 +2,7 @@
 
 ## Observed activity
 
-The complete WoC project manifest contains **1,338 commits** and **34 distinct author strings**, from 2018-12-20 through 2025-07-30. The longest inactivity gap is **2023-06 through 2023-12 (7 months)**. There are **5 gaps of at least three months** and **50 commits after the longest gap**. Counts cover the first through last observed WoC month, without adding trailing inactivity.
+The analyzed WoC records contain **1,338 commits** and **34 distinct author strings**, from 2018-12-20 through 2025-07-30. The longest observed inactivity gap is **2023-06 through 2023-12 (7 months)**, followed by **50 retrieved commits**. There are **5 gaps of at least three months**. Counts cover the first through last observed WoC month, without adding trailing inactivity. See `WOC_DATA_EXCEPTIONS.md` for the TA-approved use of retrieved data and the 54 documented unavailable objects across three projects.
 
 **Activity pattern: declining.** Large development bursts in 2019-2021 give way to much lower activity from 2022 onward. Small 2024-2025 bursts do not return to the earlier intensity, supporting a declining overall trajectory. Five gaps last at least three months.
 
@@ -18,7 +18,7 @@ The complete WoC project manifest contains **1,338 commits** and **34 distinct a
 
 **Contributors:** Existing contributors drive the restart: eight of the ten sampled commits are by Adrian Lehmann and one by Robert Rand. The newly observed timotheeMM identity contributes one README-fix commit. Adrian uses differing email strings already present in pre-gap history; aliases alone do not establish a new person. Names/emails are Git author metadata; raw author-string counts are not deduplicated person counts.
 
-The zero-month interval is straightforward to identify from complete data, but the causal interpretation is harder: commit messages show what changed, not necessarily why work stopped. PR #54 spans the gap: it was opened May 10, 2023 and merged February 3, 2024. Issue #55, opened November 16, 2023, reports installation-link problems that are addressed by post-gap documentation commits. These are stronger clues to the purpose of resumed work than a generic inactivity explanation. A direct check of commit d632f9e0c1 confirms the README URL repair, even though the path-filtered README history query returned no rows for the window. See https://github.com/inQWIRE/SQIR/pull/54 and https://github.com/inQWIRE/SQIR/issues/55.
+The monthly counts locate any zero-month interval in the analyzed records, but commit messages show what changed, not necessarily why work stopped. PR #54 spans the gap: it was opened May 10, 2023 and merged February 3, 2024. Issue #55, opened November 16, 2023, reports installation-link problems that are addressed by post-gap documentation commits. These are stronger clues to the purpose of resumed work than a generic inactivity explanation. A direct check of commit d632f9e0c1 confirms the README URL repair, even though the path-filtered README history query returned no rows for the window. See https://github.com/inQWIRE/SQIR/pull/54 and https://github.com/inQWIRE/SQIR/issues/55.
 
 Supporting checks: [issues/PRs created in the boundary window](https://api.github.com/search/issues?q=repo%3AinQWIRE%2FSQIR+created%3A2023-05-01..2024-01-31&per_page=30) and [README history or inspected change](https://github.com/inQWIRE/SQIR/commit/d632f9e0c11a5f3843904211ccf0fba041ef7130). The search uses creation dates and does not exhaust later comments on older issues.
 

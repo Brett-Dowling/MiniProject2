@@ -2,7 +2,7 @@
 
 ## Observed activity
 
-The complete WoC project manifest contains **233 commits** and **7 distinct author strings**, from 2020-03-30 through 2021-10-29. The longest inactivity gap is **2020-10 through 2020-11 (2 months)**. There are **0 gaps of at least three months** and **154 commits after the longest gap**. Counts cover the first through last observed WoC month, without adding trailing inactivity.
+The analyzed WoC records contain **233 commits** and **7 distinct author strings**, from 2020-03-30 through 2021-10-29. The longest observed inactivity gap is **2020-10 through 2020-11 (2 months)**, followed by **154 retrieved commits**. There are **0 gaps of at least three months**. Counts cover the first through last observed WoC month, without adding trailing inactivity. See `WOC_DATA_EXCEPTIONS.md` for the TA-approved use of retrieved data and the 54 documented unavailable objects across three projects.
 
 **Activity pattern: irregular.** Activity is irregular, with 30 commits in September 2020, a two-month pause, and a larger burst of 59 commits in February 2021. There are zero inactivity gaps of at least three months. The isolated peaks do not establish a recurring seasonal cycle.
 
@@ -18,7 +18,7 @@ The complete WoC project manifest contains **233 commits** and **7 distinct auth
 
 **Contributors:** The first ten post-gap commits use the same ashwinkk23 author identity already present before the gap; no new author identity appears in that sample. Names/emails are Git author metadata; raw author-string counts are not deduplicated person counts.
 
-The zero-month interval is straightforward to identify from complete data, but the causal interpretation is harder: commit messages show what changed, not necessarily why work stopped. The assigned GitHub URL redirects to tee-lab/PyDaddy. A search of issues and pull requests created from September through December 2020 returned zero results; this does not prove no discussion existed elsewhere. The September 25 README change adds installation and usage information and does not announce abandonment. The WoC project history ends in October 2021, while current GitHub history extends into 2026, so the WoC endpoint must not be used to infer present inactivity.
+The monthly counts locate any zero-month interval in the analyzed records, but commit messages show what changed, not necessarily why work stopped. The assigned GitHub URL redirects to tee-lab/PyDaddy. A search of issues and pull requests created from September through December 2020 returned zero results; this does not prove no discussion existed elsewhere. The September 25 README change adds installation and usage information and does not announce abandonment. The WoC project history ends in October 2021, while current GitHub history extends into 2026, so the WoC endpoint must not be used to infer present inactivity.
 
 Supporting checks: [issues/PRs created in the boundary window](https://api.github.com/search/issues?q=repo%3Atee-lab%2FPyDaddy+created%3A2020-09-01..2020-12-31&per_page=30) and [README history or inspected change](https://github.com/tee-lab/PyDaddy/commit/578b3accae09e75742702cee4939d8d2db8a46d1). The search uses creation dates and does not exhaust later comments on older issues.
 

@@ -2,7 +2,7 @@
 
 ## Observed activity
 
-The complete WoC project manifest contains **559 commits** and **9 distinct author strings**, from 2017-10-29 through 2025-07-13. The longest inactivity gap is **2020-04 through 2025-06 (63 months)**. There are **2 gaps of at least three months** and **6 commits after the longest gap**. Counts cover the first through last observed WoC month, without adding trailing inactivity.
+The analyzed WoC records contain **559 commits** and **9 distinct author strings**, from 2017-10-29 through 2025-07-13. The longest observed inactivity gap is **2020-04 through 2025-06 (63 months)**, followed by **6 retrieved commits**. There are **2 gaps of at least three months**. Counts cover the first through last observed WoC month, without adding trailing inactivity. See `WOC_DATA_EXCEPTIONS.md` for the TA-approved use of retrieved data and the 54 documented unavailable objects across three projects.
 
 **Activity pattern: declining.** Activity is concentrated in 2017-2018, dwindles to occasional documentation changes, and then stops for 63 months. The six WoC commits on a single July 2025 day represent only a brief return, not a sustained rising trajectory. Two gaps last at least three months.
 
@@ -18,7 +18,7 @@ The complete WoC project manifest contains **559 commits** and **9 distinct auth
 
 **Contributors:** Post-gap commits use testtt7272 and windweller with the same email, different from the pre-gap Allen Nie identity. These are newly observed author strings, not proof of different people or a confirmed ownership transfer. Names/emails are Git author metadata; raw author-string counts are not deduplicated person counts.
 
-The zero-month interval is straightforward to identify from complete data, but the causal interpretation is harder: commit messages show what changed, not necessarily why work stopped. The current GitHub default branch has only three commits, while WoC associates 559 commits with the project. The first current-branch upload introduces the README from an empty file, consistent with a history-scope change; this is insufficient to prove the exact mechanism of deletion, rewriting, or recreation. The search across March 2020-July 2025 returned zero issues/PRs. The README contains no dated explanation of the gap. Only Other is defensible for the generic post-gap messages; a second topic is not fabricated.
+The monthly counts locate any zero-month interval in the analyzed records, but commit messages show what changed, not necessarily why work stopped. The current GitHub default branch has only three commits, while WoC associates 559 commits with the project. The first current-branch upload introduces the README from an empty file, consistent with a history-scope change; this is insufficient to prove the exact mechanism of deletion, rewriting, or recreation. The search across March 2020-July 2025 returned zero issues/PRs. The README contains no dated explanation of the gap. Only Other is defensible for the generic post-gap messages; a second topic is not fabricated.
 
 Supporting checks: [issues/PRs created in the boundary window](https://api.github.com/search/issues?q=repo%3Awindweller%2FDisExtract+created%3A2020-03-01..2025-07-31&per_page=30) and [README history or inspected change](https://github.com/windweller/DisExtract/commit/5d71a5ab4f3f175044185c35811e7a9789b379bc). The search uses creation dates and does not exhaust later comments on older issues.
 

@@ -165,6 +165,79 @@ post;jayggg_ngstents;49ac4d31aab0bba97b629498348bde056dcffa86;Jay Gopalakrishnan
 "
 post;jayggg_ngstents;52d74885a32f1e7ea67d5ab20f80ced5fe4cbd40;Jay Gopalakrishnan <gjay@pdx.edu>;1688007100;"const cannot have return value
 "
+pre;jgcri_gcam-core;c934ae658e65f4ab87f6100a356ecf33c1fa2769;Pralit Patel <pralit.patel@pnnl.gov>;1202839854;"Fixed an issue that was causing a crash when writing to the access db.  The Ag production change vector had values beyond the model end period so now only values until the model end period will be written.
+-r=ssmith
+"
+pre;jgcri_gcam-core;2eae3db15854a5178f3c671cac90d12537db1001;Steven J Smith <ssmith@pnnl.gov>;1203534589;"Fixes to land-use history/land-area retrieval and forest calibration. Reviewed Pralit.
+"
+pre;jgcri_gcam-core;9f13cda6a797466b1be962b01ded039e0ae05d78;Pralit Patel <pralit.patel@pnnl.gov>;1203719866;"Changed the way polygon shape files are read in so that the res used is just the working res and the dataValue for a polygon is weighted by the portion of the area the box takes of the polygon
+"
+pre;jgcri_gcam-core;7b261022824d95cfdfa06459649e92e85a048100;Pralit Patel <pralit.patel@pnnl.gov>;1204646850;"Numberous changes which include making the XMLDB a singleton so as to be used by any module that needs it.  Also moved it under the xmldb package.  A small fix for the csv conversions.  Added the emissions downscaler to the dm.  Added support to run things via a batch file.  Currently only csv files are supported but queries, the pp and dm are soon to come.
+"
+pre;jgcri_gcam-core;bad83dee8f7ce3efcd4a03c9cc7235333228dbc6;Pralit Patel <pralit.patel@pnnl.gov>;1204647810;"Minor fixes to various things.
+"
+pre;jgcri_gcam-core;7ba24f6e876acebb9b23b50680584004d63b251e;Pralit Patel <pralit.patel@pnnl.gov>;1207923674;"Made it so if multiple single query values from the same the same parent they get combined into one query on copy
+"
+pre;jgcri_gcam-core;dd1f22f3ccbc0c77cb74d34207384a8a9b7ffa38;Pralit Patel <pralit.patel@pnnl.gov>;1208378273;"Fixed a bug in csv conversions where the grand parent should merge its attrs with an already existing node.  Also takes care of the extra blank nodes left behind from similar situations.
+"
+pre;jgcri_gcam-core;ca1f4a6b3fd2550fef195e3276bbf50a5d1b481f;Pralit Patel <pralit.patel@pnnl.gov>;1210694252;"Import/export multiple runs from xmldb
+"
+pre;jgcri_gcam-core;156740b28c5467e9fe1aa6b2f3de0ed087b23696;Pralit Patel <pralit.patel@pnnl.gov>;1211487546;"Split runs into different sheets for batch queries
+"
+pre;jgcri_gcam-core;331129f8c8221fd532a4cb7f920e5e4cc29a76a8;Pralit Patel <pralit.patel@pnnl.gov>;1212590848;"Ability to write mutliple years to a netcdf if trying to output a grouped by year variable.  Also a fix in sceintific data read in, which now a allows a + after the E.
+"
+post;jgcri_gcam-core;51bccf9f0a115685f40019bd62fe393e39a3e5a8;Pralit Patel <pralit.patel@pnnl.gov>;1220554045;"Added the ability for the csv converter to read a header/table that has node name renames and applies that to the current tree at the time of reading.  This is useful when have nested structures which should use the same node name
+"
+post;jgcri_gcam-core;b16d54b168f0225c2e7e72c328baff282b0a0a71;Pralit Patel <pralit.patel@pnnl.gov>;1221241073;"Added parseLessThanOrEqual command plus a fix to csv outputting.
+"
+post;jgcri_gcam-core;64b0d3d2681f3f48049e18c51de966ce88504db6;Pralit Patel <pralit.patel@pnnl.gov>;1221241347;"Fix for overwriting data in the MatrixRepository.  Fix a bug when reading a seed file.  Add the ability to skip lines when reading a txt input.  Update reading NetCDF Region Def files.  TODO: clean up debugging code.
+"
+post;jgcri_gcam-core;a730ac1b724c7ccbfe668cb0169f51d66a957a2c;Pralit Patel <pralit.patel@pnnl.gov>;1223401630;"
+"
+post;jgcri_gcam-core;4a48a79ac3ee0a6db12b3a1d455f517c6e09feeb;Pralit Patel <pralit.patel@pnnl.gov>;1223402230;"Moving the exe directory to the correct spot
+"
+post;jgcri_gcam-core;b71b92e338181dc9ae68ea91f9ef50352a48d5b9;Pralit Patel <pralit.patel@pnnl.gov>;1223402643;"Moving the input directory to the correct spot
+"
+post;jgcri_gcam-core;d07c9cfce4f298da43c7bbb4db6c7ea15ba42a6b;Page Kyle <pkyle@pnnl.gov>;1223404163;"reset electricity subsector shareweight scaleyear to 2005
+"
+post;jgcri_gcam-core;8f91c843632824f3d0bb0039f4912f78e1002754;Pralit Patel <pralit.patel@pnnl.gov>;1223412199;"Copy the mult-inputs branch in the workspace.  This should now be the main line for development
+"
+post;jgcri_gcam-core;8009dd8ca505eb17f6cc6e44e3607f6510f85e1f;Page Kyle <pkyle@pnnl.gov>;1223993204;"Added batch_csv_outputter to the project file. R: KVC
+"
+post;jgcri_gcam-core;a8daed9df0db9bc21141f003b3f1f1507e592aea;Page Kyle <pkyle@pnnl.gov>;1224637208;"gpk: removes warning message for coefs of 0. R: Pralit
+"
+pre;openda-association_openda;8409136d3c2eef36e957f21ddd8869655876fbb2;Adri Mourits <Adri.Mourits@deltares.nl>;1411563514;"openda: Adding root directories
+"
+post;openda-association_openda;8bef65262f578a4689afa2a47bd1d78eca0a9481;Edwin Bos <Edwin.Bos@deltares.nl>;1426849183;"Moved the OpenDA Open Source code to this repository.
+Please note that the build and test scripts assume that this code is being checked out into a working directory named ""public"" by the user.
+"
+post;openda-association_openda;e702379b8e5176231bb553e028859c11435b92e3;Edwin Bos <Edwin.Bos@deltares.nl>;1427180978;"Added core castor and observers castor to the main build script.
+"
+post;openda-association_openda;37ddcd3552098c6f70d35b1e168a9d1390adfba8;Arno Kockx <Arno.Kockx@deltares.nl>;1427191128;"Corrected openda.ipr file.
+
+"
+post;openda-association_openda;2baf5751e89f71fb6126ddec66a55223268503c6;Arno Kockx <Arno.Kockx@deltares.nl>;1427215692;"ODA-327: Moved method getFilePathStringForPython to BBUtils.
+
+"
+post;openda-association_openda;e5675125f0db422fe7dfe06f2bf34d0a3ef72dbf;Nils van Velzen <nilsvanvelzen@gmail.com>;1427380009;"set/fix executable bits for configure and install-sh sripts of native
+"
+post;openda-association_openda;1dd529594267f0d32421cba7da092a0257a77458;Nils van Velzen <nilsvanvelzen@gmail.com>;1427445113;"ODA-279
+OpenDA-OpenMI-MikeShe wrapper
+Using DFS0 observations
+Migrated working copy changes onto new repository.
+"
+post;openda-association_openda;083e6515de0609a98ac903df6c4ce9bfa1228a55;Marc-Etienne Ridler <mer@dhigroup.com>;1427462206;"
+"
+post;openda-association_openda;8694afd394e72180d16ff11b54365773e2a7cea3;Marc-Etienne Ridler <mer@dhigroup.com>;1427462261;"For random number generation
+
+"
+post;openda-association_openda;6bda8535cafecbf23b688e5fff51c27fac112d3e;Marc-Etienne Ridler <mer@dhigroup.com>;1427462358;"Returns the number of observations
+"
+post;openda-association_openda;f290d8bf75475eb0864477136a333f7fbf818446;Marc-Etienne Ridler <mer@dhigroup.com>;1427462496;"Now works for the SZ.
+Assimilates head observations in 3D in a the large Ahlhergaard model.
+
+NOTE- there is a fixed standard deviation. Need to be able to  pass it from the oda to the DHI StochObserver.
+"
 pre;tee-lab_pyddsde;e83a4395d7a6464fe52f57d2258977ce2b043d7e;ashwinkk23 <ashwinkk.23@gmail.com>;1601031208;"added test code
 "
 pre;tee-lab_pyddsde;590581685e4497de69904b61d4bccd17b2a3e132;ashwinkk23 <ashwinkk.23@gmail.com>;1601031861;"updated .gitignore

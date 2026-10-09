@@ -2,7 +2,7 @@
 
 ## Observed activity
 
-The complete WoC project manifest contains **454 commits** and **11 distinct author strings**, from 2020-06-29 through 2025-06-10. The longest inactivity gap is **2022-04 through 2023-05 (14 months)**. There are **4 gaps of at least three months** and **94 commits after the longest gap**. Counts cover the first through last observed WoC month, without adding trailing inactivity.
+The analyzed WoC records contain **454 commits** and **11 distinct author strings**, from 2020-06-29 through 2025-06-10. The longest observed inactivity gap is **2022-04 through 2023-05 (14 months)**, followed by **94 retrieved commits**. There are **4 gaps of at least three months**. Counts cover the first through last observed WoC month, without adding trailing inactivity. See `WOC_DATA_EXCEPTIONS.md` for the TA-approved use of retrieved data and the 54 documented unavailable objects across three projects.
 
 **Activity pattern: declining.** The strongest activity occurs in 2020 and early 2021, followed by lower activity and long pauses. Later bursts in 2023 and 2024 are smaller and isolated, so declining is a reasonable overall classification. Four zero-month runs last at least three months.
 
@@ -18,7 +18,7 @@ The complete WoC project manifest contains **454 commits** and **11 distinct aut
 
 **Contributors:** All ten immediate post-gap commits use Jay Gopalakrishnan, an author already present before the gap. The observed restart was driven by an existing contributor rather than a newly observed author. Names/emails are Git author metadata; raw author-string counts are not deduplicated person counts.
 
-The zero-month interval is straightforward to identify from complete data, but the causal interpretation is harder: commit messages show what changed, not necessarily why work stopped. The issue/PR search covering March 2022-June 2023 returned zero results, so it supplies no direct account of the pause. The June 28 README diff adds an examples section and reframes the tests as checks for new changes; it corroborates maintenance work but does not announce a formal revival. Observed recovery after the longest gap and Inactive status at the later cutoff are different findings.
+The monthly counts locate any zero-month interval in the analyzed records, but commit messages show what changed, not necessarily why work stopped. The issue/PR search covering March 2022-June 2023 returned zero results, so it supplies no direct account of the pause. The June 28 README diff adds an examples section and reframes the tests as checks for new changes; it corroborates maintenance work but does not announce a formal revival. Observed recovery after the longest gap and Inactive status at the later cutoff are different findings.
 
 Supporting checks: [issues/PRs created in the boundary window](https://api.github.com/search/issues?q=repo%3Ajayggg%2Fngstents+created%3A2022-03-01..2023-06-30&per_page=30) and [README history or inspected change](https://github.com/jayggg/ngstents/commit/49ac4d31aab0bba97b629498348bde056dcffa86). The search uses creation dates and does not exhaust later comments on older issues.
 
