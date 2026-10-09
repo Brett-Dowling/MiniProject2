@@ -1,0 +1,457 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;avehtari_bda_course_aalto;7c88a18ab057716bb9bbfb7191f57b74acd6ebaa;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1732803947;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;1c48cfdd5a5b212e4de259821d9d51d3b0b52fdb;Aki Vehtari <Aki.Vehtari@aalto.fi>;1732804403;"updated instructions and minor fixes
+"
+pre;avehtari_bda_course_aalto;1b987c7089b5de9ecbad74a97eb8fe054aa3acec;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1732804672;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;af8c45e10eed0511ffae84102f54a2bf98257c8a;davkoh <53530807+davkoh@users.noreply.github.com>;1733311087;Update of project feedback deadline
+pre;avehtari_bda_course_aalto;629fa637a4c9cd631d50e89fa8d70adf95ab9903;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1733311370;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;fb07b7fdb171a4d7f43eff132222f547a32b361b;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1737704442;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;ae62cbcb4da1e4f2face5b76e548e12f665bf144;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1737708036;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;b6e1ffa5300da9eec9f32e0e60e64bfbaeaf9401;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1737993772;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;7fc114c49e77df2cae5153404c34ad4ae9f58610;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1738058981;"Built site for gh-pages
+"
+pre;avehtari_bda_course_aalto;de35d152c1651752f3eaaabc13cbdac11e32c1ce;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1738059589;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;edb2ce58e5b60f686bd3d1ece589ef59583c2f0a;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1752596017;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;cf62285e1ae73aeecf06e4c349cb704a5a881ad8;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1752653227;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;64d2d1a0a915dcef6069dfaa5c934f2c01b5f787;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1753774346;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;d9aee2d3e59278efde50457dee5f55eb680e93d1;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1753863325;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;e3cfcc4f2d4592062fee0e880ad181fdd9b21a00;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1754295406;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;6c482228a1cbc63ad45b771aa0593f9b0d6f2eea;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1754467322;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;408064452f41c9bd07dd01749bc6b87c2d88224e;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1754475425;"Built site for gh-pages
+"
+post;avehtari_bda_course_aalto;228bbdf2cf32b307f5211634fddb8c698532d2a7;Aki Vehtari <Aki.Vehtari@aalto.fi>;1754483763;"updates for 2025
+"
+post;avehtari_bda_course_aalto;a07e56b38fdd5652d74c969b4c41cacb2a2c7fe1;Aki Vehtari <Aki.Vehtari@aalto.fi>;1754566152;"schedule csv for 2025
+"
+post;avehtari_bda_course_aalto;7679497a09330c2365a4d6a7b4d02b8072215c74;Quarto GHA Workflow Runner <quarto-github-actions-publish@example.com>;1754566446;"Built site for gh-pages
+"
+pre;eberharf_cfl;4b03a8e91f61a4c3acb57a1493da2d3f7c7734a5;Iman Wahle <imanwahle@gmail.com>;1648682087;"Inc hotfix version
+"
+pre;eberharf_cfl;419ca2af346e288ecd96e6956d18ef3ed6732c8b;Iman Wahle <imanwahle@gmail.com>;1648750449;"Change python testing reqs
+"
+pre;eberharf_cfl;838d3cc6ad157bbdadf32ac7085d0391f942c483;Iman Wahle <imanwahle@gmail.com>;1648751951;"Clean up readme
+"
+pre;eberharf_cfl;a522c443357a4cb2cafda7c4251f9541ba500bfd;Iman Wahle <imanwahle@gmail.com>;1648752044;"Test python 3.7, 3.8
+"
+pre;eberharf_cfl;c46d99ccfe96cfe529d0b0df93b33cefff288d6f;Iman Wahle <imanwahle@gmail.com>;1648752157;"Fix hyperlink
+"
+pre;eberharf_cfl;33b9b91caca78b867f5c2cebe36994067535dcf1;Iman Wahle <imanwahle@gmail.com>;1648770944;"Reorganize docs toctree
+"
+pre;eberharf_cfl;0c3eb28e77dd2e5e316a530fc6eb6e2612eceb3c;Iman Wahle <imanwahle@gmail.com>;1648851978;"Organize docs directory structure
+"
+pre;eberharf_cfl;79aa7eeab64f8685cc426991d0c03a41aa1fd786;Iman Wahle <imanwahle@gmail.com>;1648869346;"Update tutorials to match new cfl interface
+"
+pre;eberharf_cfl;03403403b85684e245ea62d2fa6ade7ea7c096e8;Iman Wahle <imanwahle@gmail.com>;1648870494;"Fix title in notebook
+"
+pre;eberharf_cfl;d0e8b75880297b71f1ba7be45ad2c43d76464f03;Iman Wahle <imanwahle@gmail.com>;1648871488;"Change test to val in cde plot
+"
+post;eberharf_cfl;09f7f4b2fc12f8afb3b71023580839ebdc89e0cd;Iman Wahle <imanwahle@gmail.com>;1701564199;"Add ridge reg CDE option
+"
+post;eberharf_cfl;3f6e19b0cacbe1113ef208569fb721a8f956cc5a;Iman Wahle <imanwahle@gmail.com>;1701564357;"Merge branch 'ridge' into dev
+"
+post;eberharf_cfl;28dcac162e25acb30b64f360244fc85c0bb34d8a;Iman Wahle <imanwahle@gmail.com>;1701569813;"Set auto conda env update to false github actions
+"
+post;eberharf_cfl;3566276a726254c0e985940b6676629d55d86ec3;Iman Wahle <imanwahle@gmail.com>;1701570744;"Update dependencies
+"
+post;eberharf_cfl;7d455a932bb8f8453e389d8ebefd5e2e2d62c92e;Iman Wahle <imanwahle@gmail.com>;1701620006;"Add readthedocs config
+"
+post;eberharf_cfl;a577227ed8bc6a93cc5ddc2a13ccfcdaef503a49;Iman Wahle <imanwahle@gmail.com>;1701620352;"Update version
+"
+post;eberharf_cfl;0b32b4d80a5367499fb555bba2b13ee680b9f888;Iman Wahle <imanwahle@gmail.com>;1701621016;"Add docs theme req
+"
+post;eberharf_cfl;4d31afed6b7ed5b8546fee9967eadde4879aa838;Iman Wahle <imanwahle@gmail.com>;1701623007;"Add class documentation
+"
+post;eberharf_cfl;3bbcadd093c458bf6a885bbb814b17e0cfd08503;Iman Wahle <imanwahle@gmail.com>;1701632133;"Update auto-docs
+"
+post;eberharf_cfl;e8d587ed4e3c7a3e008927595710185b06d29eb2;Iman Wahle <imanwahle@gmail.com>;1701643967;"Format tuning figure
+"
+pre;vatlab_sos;7b501956767d0012c785ef0df033a336eb6f0612;Bo Peng <ben.bob@gmail.com>;1712711970;"Python 3.11 and below compatibility
+"
+pre;vatlab_sos;070ab49ab423ee934beaa7f9cadb5a07d9e4f60c;Bo Peng <ben.bob@gmail.com>;1712722677;"Try to fix task related tests for python 3.9
+"
+pre;vatlab_sos;1720da9c2120c8ab3ccfe2da8f1079a8278d4698;Bo Peng <ben.bob@gmail.com>;1712723493;"Fix option -s for command sos execute
+"
+pre;vatlab_sos;fa5c550d1f2591d040a884cc9d20bf8399507e49;Bo Peng <ben.bob@gmail.com>;1712786852;"Fix for python 3.12
+"
+pre;vatlab_sos;7b6a822b6a943a55dfe85199c08e7fb6488d590f;Bo Peng <ben.bob@gmail.com>;1712789866;"Use the same version of python for test docker container
+"
+pre;vatlab_sos;a511fa91993c3d9b54571d7751aa548d80e50e8d;Bo <BoPeng@users.noreply.github.com>;1712791513;"Issue1542 (#1543)
+
+Fix python 3.12 compatibility issue."
+pre;vatlab_sos;a08c6d424362dc6ddb0a3996d4ef21fd8fbc7839;Bo Peng <ben.bob@gmail.com>;1712794114;"release sos 0.25.1
+"
+pre;vatlab_sos;9afcdc79a9f1596e7c7f393b55dbc752d43c691e;Bo <BoPeng@users.noreply.github.com>;1712794228;Update README.md
+pre;vatlab_sos;6a9d0379d67f5703408af04e39d998334e0b345a;Bo <BoPeng@users.noreply.github.com>;1712794246;"Update README.md (#1545)
+
+"
+pre;vatlab_sos;7c3aa02e8a7257706766fe1e576e014dc627d90c;Bo Peng <ben.bob@gmail.com>;1729130038;"Deprecating pkg_resources
+"
+post;vatlab_sos;8caabf424296c89f7dfc46d0732028ae82176b79;Bo Peng <ben.bob@gmail.com>;1757386283;"Migrate from setup.py to pyproject.toml
+
+- Convert setup.py configuration to modern pyproject.toml format
+- Remove old setup.py and requirements_dev.txt files
+- Add CLAUDE.md for repository guidance
+- Maintain all entry points and plugin configurations
+- Add optional dependencies for platform-specific packages
+
+This migration follows PEP 517/518/621 standards for modern Python packaging.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;50d6a3f43d0edfa2d30b6fb5dbb5be32e1d288f8;Bo Peng <ben.bob@gmail.com>;1757386525;"Update pyproject.toml to use hatchling build backend
+
+- Replace setuptools build backend with modern hatchling
+- Configure dynamic versioning from src/sos/_version.py
+- Add proper source directory configuration for hatchling
+- Include alternative flit configuration for reference
+
+Hatchling provides better support for modern Python packaging
+and handles the src-layout more efficiently than setuptools.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;88f592df3f1700458cf98f01608bf5016374cc42;Bo Peng <ben.bob@gmail.com>;1757386754;"Add comprehensive build and contribution documentation
+
+- Update README.md with modern installation instructions
+- Create CONTRIBUTING.md with detailed development setup
+- Document building, testing, and deployment procedures
+- Include instructions for pip, conda, and development installs
+- Add guidelines for pull requests and code style
+
+These docs reflect the new pyproject.toml-based build system
+and provide clear paths for users and contributors.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;f1b907998d91e9d1356df086a9911a9af115bfd7;Bo Peng <ben.bob@gmail.com>;1757387403;"Add uv support for virtual environment management
+
+- Add uv as the recommended package manager for faster installs
+- Update pyproject.toml with uv-compatible configuration
+- Add comprehensive uv instructions to CONTRIBUTING.md
+- Update README.md with uv installation options
+- Configure development tools (ruff, pytest, coverage)
+- Update .gitignore with common development patterns
+- Set Python 3.9 as minimum version (aligned with .python-version)
+
+uv provides significantly faster package installation and better
+dependency resolution compared to traditional pip.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;20b4073a49098e56b7cf0de0162db4b4550e20fe;Bo Peng <ben.bob@gmail.com>;1757387687;"Add Invoke task automation system
+
+- Create comprehensive tasks.py with common development tasks
+- Add invoke commands for format, lint, test, build, and release
+- Include shortcuts and aliases for common operations
+- Add dependency management tasks (show, update)
+- Include version bumping and release automation
+- Create invoke.yaml configuration file
+- Update documentation with invoke usage instructions
+- Add invoke to dev dependencies in pyproject.toml
+
+The Invoke system provides a clean, consistent interface for
+all development tasks, making the development workflow more
+efficient and standardized.
+
+Available commands:
+  invoke test        # Run tests
+  invoke format      # Format code
+  invoke lint        # Check code style
+  invoke check       # Run all checks
+  invoke build       # Build packages
+  invoke release     # Release to PyPI
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;88b4fb412f53fb80099adb195f0cb688e21e7e92;Bo Peng <ben.bob@gmail.com>;1757387801;"Fix: Replace os.chdir with c.cd in Invoke tasks
+
+- Use Invoke's c.cd() context manager instead of os.chdir()
+- Ensures working directory changes are properly scoped
+- Prevents side effects from permanent directory changes
+- Remove unused os import
+
+This is the correct pattern for directory changes in Invoke tasks,
+as it safely restores the original directory after the task completes.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post;vatlab_sos;357ea55a0301f4c45207114c44202f8a02d9ecfb;Bo Peng <ben.bob@gmail.com>;1757388297;"run lint format
+"
+post;vatlab_sos;8a155be4b1c6ed437a7f60fbe012774854cb59f8;Bo Peng <ben.bob@gmail.com>;1757394151;"fix linting errors
+"
+post;vatlab_sos;b2fa21fbedfdeda2f37fc3a8e314aa4089685e41;Bo <BoPeng@users.noreply.github.com>;1762375113;"Cleanup (#1548)
+
+* Migrate from setup.py to pyproject.toml
+
+- Convert setup.py configuration to modern pyproject.toml format
+- Remove old setup.py and requirements_dev.txt files
+- Add CLAUDE.md for repository guidance
+- Maintain all entry points and plugin configurations
+- Add optional dependencies for platform-specific packages
+
+This migration follows PEP 517/518/621 standards for modern Python packaging.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+* Update pyproject.toml to use hatchling build backend
+
+- Replace setuptools build backend with modern hatchling
+- Configure dynamic versioning from src/sos/_version.py
+- Add proper source directory configuration for hatchling
+- Include alternative flit configuration for reference
+
+Hatchling provides better support for modern Python packaging
+and handles the src-layout more efficiently than setuptools.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+* Add comprehensive build and contribution documentation
+
+- Update README.md with modern installation instructions
+- Create CONTRIBUTING.md with detailed development setup
+- Document building, testing, and deployment procedures
+- Include instructions for pip, conda, and development installs
+- Add guidelines for pull requests and code style
+
+These docs reflect the new pyproject.toml-based build system
+and provide clear paths for users and contributors.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+* Add uv support for virtual environment management
+
+- Add uv as the recommended package manager for faster installs
+- Update pyproject.toml with uv-compatible configuration
+- Add comprehensive uv instructions to CONTRIBUTING.md
+- Update README.md with uv installation options
+- Configure development tools (ruff, pytest, coverage)
+- Update .gitignore with common development patterns
+- Set Python 3.9 as minimum version (aligned with .python-version)
+
+uv provides significantly faster package installation and better
+dependency resolution compared to traditional pip.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+* Add Invoke task automation system
+
+- Create comprehensive tasks.py with common development tasks
+- Add invoke commands for format, lint, test, build, and release
+- Include shortcuts and aliases for common operations
+- Add dependency management tasks (show, update)
+- Include version bumping and release automation
+- Create invoke.yaml configuration file
+- Update documentation with invoke usage instructions
+- Add invoke to dev dependencies in pyproject.toml
+
+The Invoke system provides a clean, consistent interface for
+all development tasks, making the development workflow more
+efficient and standardized.
+
+Available commands:
+  invoke test        # Run tests
+  invoke format      # Format code
+  invoke lint        # Check code style
+  invoke check       # Run all checks
+  invoke build       # Build packages
+  invoke release     # Release to PyPI
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+* Fix: Replace os.chdir with c.cd in Invoke tasks
+
+- Use Invoke's c.cd() context manager instead of os.chdir()
+- Ensures working directory changes are properly scoped
+- Prevents side effects from permanent directory changes
+- Remove unused os import
+
+This is the correct pattern for directory changes in Invoke tasks,
+as it safely restores the original directory after the task completes.
+"
+post;vatlab_sos;67b9e6ce22e0245dcd1a6e4a5873ff822b00097b;Bo Peng <ben.bob@gmail.com>;1762385430;"improve type annotation
+"
+pre;jayggg_ngstents;e90f9770f15a40a08e1b6670991b1cdcd5821cbb;Paul <stocker.paul@hotmail.com>;1636907868;"remove trefftz submodule
+"
+pre;jayggg_ngstents;f457cdce08da595500b3433cc7e70f67d388516b;Jay Gopalakrishnan <gjay@pdx.edu>;1642875210;"Merge pull request #26 from PaulSt/rmtrefftz
+
+remove trefftz"
+pre;jayggg_ngstents;76eb28524211e82c94d0a5ca615764fe1ad5e677;Paul <stocker.paul@hotmail.com>;1643202910;"update workflow
+"
+pre;jayggg_ngstents;1caa72c5073df20afe6a4b34ddd812f9cbc0e65a;Paul <stocker.paul@hotmail.com>;1643203508;"fix simd to double error
+"
+pre;jayggg_ngstents;2cf9da40559dcebc5376113491e90d22e053cd07;Paul <stocker.paul@hotmail.com>;1643206085;"fix simd lvalue error
+"
+pre;jayggg_ngstents;71184ca26613de6bc1c93071d8cb08dced8e2243;Jay Gopalakrishnan <gjay@pdx.edu>;1643208987;"Merge pull request #27 from PaulSt/workflows
+
+Github actions passing"
+pre;jayggg_ngstents;e52305f20f2ac8cdfc66e46a4c4b9e1947065e6e;Paul <stocker.paul@hotmail.com>;1644343562;"hotfix traversedim
+"
+pre;jayggg_ngstents;46851bdea42e6225a0deb420106dc843cd06b6f5;Paul <stocker.paul@hotmail.com>;1644346344;"replace TraverseDimensions function
+"
+pre;jayggg_ngstents;4a6c2b66e2f8e7506f061a4e2fa0e407ec17e12f;Jay Gopalakrishnan <gjay@pdx.edu>;1647713534;"Merge pull request #28 from PaulSt/traversedim
+
+hotfix traversedim"
+pre;jayggg_ngstents;7b899f3db42a5b3bfce0cd90655135575366df97;Jay Gopalakrishnan <gjay@pdx.edu>;1647714431;"merge two traversedim fixes
+"
+post;jayggg_ngstents;e60cc2aae98721287d62a1995459f0c66132d478;Jay Gopalakrishnan <gjay@pdx.edu>;1687809076;"minor
+"
+post;jayggg_ngstents;a77f54f2e23b6ef1256fb6aa7b3123add38af80d;Jay Gopalakrishnan <gjay@pdx.edu>;1687873234;"moving a 1d drawtents utility & removing unchecked code
+"
+post;jayggg_ngstents;5ec5e8fb64e64aa7a414be0766c3f7c8eddbcfac;Jay Gopalakrishnan <gjay@pdx.edu>;1687882624;"removing unused
+"
+post;jayggg_ngstents;dc5408fdf3495404de79b66ee03b9f6c5f2d4347;Jay Gopalakrishnan <gjay@pdx.edu>;1687882686;"clean up simple 1d plt draw
+"
+post;jayggg_ngstents;4c4345d89d22bf9b733473477fdd5e99d777ea4c;Jay Gopalakrishnan <gjay@pdx.edu>;1687904335;"change default to SARK due to potential bc issue with SAT
+"
+post;jayggg_ngstents;4cb91828683cccaac636c951745d7e416dcb8fa6;Jay Gopalakrishnan <gjay@pdx.edu>;1687904527;"ensuring that tests passs
+"
+post;jayggg_ngstents;2a71e396f4e1c1acdfa3473f22dc65af92a1ed3d;Jay Gopalakrishnan <gjay@pdx.edu>;1687904699;"removing nonworking code
+"
+post;jayggg_ngstents;a0efa613db858ae90222cac08239116a3e2b3398;Jay Gopalakrishnan <gjay@pdx.edu>;1687905295;"reflects recent revisions
+"
+post;jayggg_ngstents;49ac4d31aab0bba97b629498348bde056dcffa86;Jay Gopalakrishnan <gjay@pdx.edu>;1687971405;"reflects recent revisions
+"
+post;jayggg_ngstents;52d74885a32f1e7ea67d5ab20f80ced5fe4cbd40;Jay Gopalakrishnan <gjay@pdx.edu>;1688007100;"const cannot have return value
+"
+pre;inqwire_sqir;cc3f4f06a113bb82fe50ed29e3de2a7ca475f7c3;Kesha Hietala <kesha@cs.umd.edu>;1680962133;"various updates to build system & directions for extraction
+"
+pre;inqwire_sqir;b1a3ef452c95f13a9a3f79fb26064a21df1570ab;Kesha Hietala <kesha@cs.umd.edu>;1680962175;"Merge branch 'main' into update-build
+"
+pre;inqwire_sqir;a4963db6d23318e9931b02853a8dc0faa94bf2bd;BHAKTISHAH <shahbhakti21@gmail.com>;1681513692;"8.17 compatibility for sqir
+"
+pre;inqwire_sqir;c620fa705151c1c9d27b0ecea0a2afe7b2e960a8;BHAKTISHAH <shahbhakti21@gmail.com>;1681613064;"voqc compiling on 8.17
+"
+pre;inqwire_sqir;b35c50a9ed90379831b3602da041ddb68e63dea8;BHAKTISHAH <shahbhakti21@gmail.com>;1681683621;"version bumps + dune changes
+"
+pre;inqwire_sqir;1f2db24aefbc18b1545332238e89b1b143fa318a;BHAKTISHAH <shahbhakti21@gmail.com>;1681683921;"version bump
+"
+pre;inqwire_sqir;320f6946470e6ed67b679d7155ecb17ea66fc163;Kesha Hietala <kesha@cs.umd.edu>;1681745091;"Merge pull request #51 from inQWIRE/update-build
+
+Various restructuring / build edits"
+pre;inqwire_sqir;dc7e0d7df952e182c118488f8b92333bdeb6c952;Ben Caldwell <53534983+caldwellb@users.noreply.github.com>;1683729792;"Merge pull request #53 from inQWIRE/main
+
+main -> add-ci"
+pre;inqwire_sqir;e24080530a4ee5ad43305de45913595f4914c99a;Ben Caldwell <caldwellb@uchicago.edu>;1683730945;"Remove SQIR as theory of VOQC
+"
+pre;inqwire_sqir;a76b448bf2d922ec9f495ca3f599534d0437cda5;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1683733705;"Merge pull request #50 from inQWIRE/add-ci
+
+Add CI for SQIR and VOQC"
+post;inqwire_sqir;d632f9e0c11a5f3843904211ccf0fba041ef7130;Adrian Lehmann <info@adrianlehmann.net>;1706296180;"Fix readme pin git url
+"
+post;inqwire_sqir;3e4b8228ed7a5ef09e3c2d65af454a0e7e39bb8d;Adrian Lehmann <info@adrianlehmann.net>;1706567281;"Merge branch 'main' into v8.17
+"
+post;inqwire_sqir;aa72b66a7631e4cbc8dfca96409c7f19b5db4a53;Adrian Lehmann <info@adrianlehmann.net>;1706567864;"Update build files to 1.3.0
+"
+post;inqwire_sqir;2403893ed2416276dbc49b269bde83ce42e37741;Adrian Lehmann <info@adrianlehmann.net>;1706568964;"Merge remote-tracking branch 'origin/main' into v8.17
+"
+post;inqwire_sqir;d7c4abd089e817f78665d938fb853d2daf3daf33;Adrian Lehmann <info@adrianlehmann.net>;1706635474;"Update CI to 8.16-8.18
+"
+post;inqwire_sqir;2e0a6123b97f1fb410ca722826af60e0be7f08e8;Adrian Lehmann <info@adrianlehmann.net>;1706638845;"Upgrade VOQC to work with 8.18
+"
+post;inqwire_sqir;d31084e9726f8b300f3e6972746b95cf2a5bd120;timotheeMM <143833750+timotheeMM@users.noreply.github.com>;1706859982;#55: Fix broken link and typo in README
+post;inqwire_sqir;d17539e96cb519fbbc728e85d6d684d6121d0611;Robert Rand <rnrand@gmail.com>;1706895225;"Merge pull request #56 from timotheeMM/patch-1
+
+#55: Fix broken link and typo in README"
+post;inqwire_sqir;af3aae99c9dfd1f268947b2299d86c53b1041a37;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1706977207;"Merge pull request #54 from inQWIRE/v8.17
+
+"
+post;inqwire_sqir;a406cd74fadfbe6083f63b2a8afa0fd37c0fd153;Adrian Lehmann <info@adrianlehmann.net>;1711412939;"Emergency patch: Disallow building voqc with qlib 1.4.0 as it causes infinite loop
+"
+pre;tee-lab_pyddsde;e83a4395d7a6464fe52f57d2258977ce2b043d7e;ashwinkk23 <ashwinkk.23@gmail.com>;1601031208;"added test code
+"
+pre;tee-lab_pyddsde;590581685e4497de69904b61d4bccd17b2a3e132;ashwinkk23 <ashwinkk.23@gmail.com>;1601031861;"updated .gitignore
+"
+pre;tee-lab_pyddsde;a5c6819363edcfed63ce98c20d488ab64532c4d6;ashwinkk23 <ashwinkk.23@gmail.com>;1601032886;"Updated readme
+"
+pre;tee-lab_pyddsde;26fb4b6088356e1306446435b8e1e17a13509651;ashwinkk23 <ashwinkk.23@gmail.com>;1601033497;"updated .gitignore
+"
+pre;tee-lab_pyddsde;19251e74add5c68824a60189c85cf6d5a55ed021;ashwinkk23 <ashwinkk.23@gmail.com>;1601033680;"updated .gitignore
+ignore notebooks/results
+"
+pre;tee-lab_pyddsde;578b3accae09e75742702cee4939d8d2db8a46d1;Ashwin Karichannavar <30363668+ashwinkk23@users.noreply.github.com>;1601039192;Update README.md
+pre;tee-lab_pyddsde;5adb2dda235fb851de2bd708c077c3f0accdb48f;ashwinkk23 <ashwinkk.23@gmail.com>;1601043507;"linguist - make ipynb files vendored
+"
+pre;tee-lab_pyddsde;ea96e55fba80b384ff1a63185f9a9cef3fb7dea5;ashwinkk23 <ashwinkk.23@gmail.com>;1601231846;"refactored methods
+"
+pre;tee-lab_pyddsde;850950ef4fbcf7d96dcc75f3285f0562d2110c5b;ashwinkk23 <ashwinkk.23@gmail.com>;1601241384;"Modifies notebook files
+"
+pre;tee-lab_pyddsde;cf1e4d8cab9aa50875db7f31a670658ddc483097;ashwinkk23 <ashwinkk.23@gmail.com>;1601242027;"Updated notebook files
+"
+post;tee-lab_pyddsde;2c096d6cfbbea663d307be7579ff15030c0e93b8;ashwinkk23 <ashwinkk.23@gmail.com>;1608634743;"Added nfft method
+Added |M|^2 to calculate autocorrelation time
+"
+post;tee-lab_pyddsde;966c2f9143b871e4027b8f8aa3c1eefd74ea6afa;ashwinkk23 <ashwinkk.23@gmail.com>;1608717065;"optimized
+"
+post;tee-lab_pyddsde;0d82142f1d29fe966c259a5844f7c4ff9e2b1cf8;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored mehtods
+Added nfft method
+Modified codes to calculate optimium timescale using |M|^2
+Optimised 3d plotting codes
+"
+post;tee-lab_pyddsde;90454a5258850bfc99168df6f0b59bc1dca5c911;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored methods
+Added nfft method
+Modified codes to calculate optimium timescale using |M|^2
+Optimised 3d plotting codes
+"
+post;tee-lab_pyddsde;c7a7ce5d9f56478bef83389a6f5dfb4a73a20b72;ashwinkk23 <ashwinkk.23@gmail.com>;1608718888;"Merge branch 'master' of https://github.com/tee-lab/pyFish
+"
+post;tee-lab_pyddsde;9ece5a30d59e6531d2ce91f8b49930c842b30d21;ashwinkk23 <ashwinkk.23@gmail.com>;1608728035;"Changed plot axis lables
+"
+post;tee-lab_pyddsde;1591816b8132eae53e4c3b14a2501665fa8fe3ba;ashwinkk23 <ashwinkk.23@gmail.com>;1609646373;"fixed 3d hist plot
+"
+post;tee-lab_pyddsde;683df5d57acd4ebcdbf8aa6f8ae17b3685c88cb8;ashwinkk23 <ashwinkk.23@gmail.com>;1609646818;"Merge remote-tracking branch 'origin/master' into optimium_timescale
+"
+post;tee-lab_pyddsde;5cd0fce4eb6f46a14c7ac707d53ebcf191e2c4f4;ashwinkk23 <ashwinkk.23@gmail.com>;1609678857;"added synthetic data
+"
+post;tee-lab_pyddsde;48e8ba0c8bb0d8bb8ac3d0612a02c8ee412e0ecd;ashwinkk23 <ashwinkk.23@gmail.com>;1610105804;"removed some data files
+"
+pre;windweller_disextract;0d4be2e3e012197f49ae489c25775f1ccd63fb07;Allen Nie <leo.niecn@gmail.com>;1558059110;Update README.md
+pre;windweller_disextract;8233688d0935d9288de323e4adabbb4a3e75ccaf;Allen Nie <leo.niecn@gmail.com>;1559266107;Update README.md
+pre;windweller_disextract;629853945b9298d822327e21b7e0a72747d6ede2;Allen Nie <leo.niecn@gmail.com>;1559266188;Update README.md
+pre;windweller_disextract;673c5c2213db099c70aff170c343db12dfb81e63;Allen Nie <leo.niecn@gmail.com>;1559604920;Create LICENSE
+pre;windweller_disextract;d2207cf0996307cac87cf2043ddc5cdcb3588ef8;Allen Nie <leo.niecn@gmail.com>;1565151220;Update README.md
+pre;windweller_disextract;25344ccc845477c8f89add3f36911035a9f2ef35;Allen Nie <leo.niecn@gmail.com>;1565733169;Update README.md
+pre;windweller_disextract;526d9c750cfe7de866244a8ab43cd35b026a675d;Allen Nie <leo.niecn@gmail.com>;1577207927;Update README.md
+pre;windweller_disextract;ee11db9e2a7f3b20a3fdbe6bfc3642074b7f63fb;Allen Nie <leo.niecn@gmail.com>;1583548590;Update README.md
+pre;windweller_disextract;3d5e9bbc67fdf4d77fe053780964f707ab7c4200;Allen Nie <leo.niecn@gmail.com>;1585238505;Update README.md
+pre;windweller_disextract;edacf44bd31bbdf85c8bc57c4b64257ce2f65661;Allen Nie <leo.niecn@gmail.com>;1585245417;Update README.md
+post;windweller_disextract;5d71a5ab4f3f175044185c35811e7a9789b379bc;testtt7272 <testtt7272@gmail.com>;1752416780;Add files via upload
+post;windweller_disextract;4c3984ea3c0326d38d54f9ef8aa2292e2b2ad9ee;testtt7272 <testtt7272@gmail.com>;1752416950;Add files via upload
+post;windweller_disextract;acee584fac9fd411f00d9534c56435cf176a50af;testtt7272 <testtt7272@gmail.com>;1752418089;Update bookcorpus.py
+post;windweller_disextract;5f316e00ebf1cffbd42b8e0af1cb653d030983d4;testtt7272 <testtt7272@gmail.com>;1752418455;Update bookcorpus.py
+post;windweller_disextract;d06b29318aab45e920295d2803cc7aadc922e5d8;windweller <testtt7272@gmail.com>;1752419432;Update bookcorpus.py
+post;windweller_disextract;ba3bb9365b96d583f4ed02220e234f987276c5b8;windweller <testtt7272@gmail.com>;1752420882;Add files via upload
