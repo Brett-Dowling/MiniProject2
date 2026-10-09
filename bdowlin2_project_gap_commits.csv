@@ -78,6 +78,140 @@ post;eberharf_cfl;3bbcadd093c458bf6a885bbb814b17e0cfd08503;Iman Wahle <imanwahle
 "
 post;eberharf_cfl;e8d587ed4e3c7a3e008927595710185b06d29eb2;Iman Wahle <imanwahle@gmail.com>;1701643967;"Format tuning figure
 "
+pre;inqwire_sqir;cc3f4f06a113bb82fe50ed29e3de2a7ca475f7c3;Kesha Hietala <kesha@cs.umd.edu>;1680962133;"various updates to build system & directions for extraction
+"
+pre;inqwire_sqir;b1a3ef452c95f13a9a3f79fb26064a21df1570ab;Kesha Hietala <kesha@cs.umd.edu>;1680962175;"Merge branch 'main' into update-build
+"
+pre;inqwire_sqir;a4963db6d23318e9931b02853a8dc0faa94bf2bd;BHAKTISHAH <shahbhakti21@gmail.com>;1681513692;"8.17 compatibility for sqir
+"
+pre;inqwire_sqir;c620fa705151c1c9d27b0ecea0a2afe7b2e960a8;BHAKTISHAH <shahbhakti21@gmail.com>;1681613064;"voqc compiling on 8.17
+"
+pre;inqwire_sqir;b35c50a9ed90379831b3602da041ddb68e63dea8;BHAKTISHAH <shahbhakti21@gmail.com>;1681683621;"version bumps + dune changes
+"
+pre;inqwire_sqir;1f2db24aefbc18b1545332238e89b1b143fa318a;BHAKTISHAH <shahbhakti21@gmail.com>;1681683921;"version bump
+"
+pre;inqwire_sqir;320f6946470e6ed67b679d7155ecb17ea66fc163;Kesha Hietala <kesha@cs.umd.edu>;1681745091;"Merge pull request #51 from inQWIRE/update-build
+
+Various restructuring / build edits"
+pre;inqwire_sqir;dc7e0d7df952e182c118488f8b92333bdeb6c952;Ben Caldwell <53534983+caldwellb@users.noreply.github.com>;1683729792;"Merge pull request #53 from inQWIRE/main
+
+main -> add-ci"
+pre;inqwire_sqir;e24080530a4ee5ad43305de45913595f4914c99a;Ben Caldwell <caldwellb@uchicago.edu>;1683730945;"Remove SQIR as theory of VOQC
+"
+pre;inqwire_sqir;a76b448bf2d922ec9f495ca3f599534d0437cda5;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1683733705;"Merge pull request #50 from inQWIRE/add-ci
+
+Add CI for SQIR and VOQC"
+post;inqwire_sqir;d632f9e0c11a5f3843904211ccf0fba041ef7130;Adrian Lehmann <info@adrianlehmann.net>;1706296180;"Fix readme pin git url
+"
+post;inqwire_sqir;3e4b8228ed7a5ef09e3c2d65af454a0e7e39bb8d;Adrian Lehmann <info@adrianlehmann.net>;1706567281;"Merge branch 'main' into v8.17
+"
+post;inqwire_sqir;aa72b66a7631e4cbc8dfca96409c7f19b5db4a53;Adrian Lehmann <info@adrianlehmann.net>;1706567864;"Update build files to 1.3.0
+"
+post;inqwire_sqir;2403893ed2416276dbc49b269bde83ce42e37741;Adrian Lehmann <info@adrianlehmann.net>;1706568964;"Merge remote-tracking branch 'origin/main' into v8.17
+"
+post;inqwire_sqir;d7c4abd089e817f78665d938fb853d2daf3daf33;Adrian Lehmann <info@adrianlehmann.net>;1706635474;"Update CI to 8.16-8.18
+"
+post;inqwire_sqir;2e0a6123b97f1fb410ca722826af60e0be7f08e8;Adrian Lehmann <info@adrianlehmann.net>;1706638845;"Upgrade VOQC to work with 8.18
+"
+post;inqwire_sqir;d31084e9726f8b300f3e6972746b95cf2a5bd120;timotheeMM <143833750+timotheeMM@users.noreply.github.com>;1706859982;#55: Fix broken link and typo in README
+post;inqwire_sqir;d17539e96cb519fbbc728e85d6d684d6121d0611;Robert Rand <rnrand@gmail.com>;1706895225;"Merge pull request #56 from timotheeMM/patch-1
+
+#55: Fix broken link and typo in README"
+post;inqwire_sqir;af3aae99c9dfd1f268947b2299d86c53b1041a37;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1706977207;"Merge pull request #54 from inQWIRE/v8.17
+
+"
+post;inqwire_sqir;a406cd74fadfbe6083f63b2a8afa0fd37c0fd153;Adrian Lehmann <info@adrianlehmann.net>;1711412939;"Emergency patch: Disallow building voqc with qlib 1.4.0 as it causes infinite loop
+"
+pre;jayggg_ngstents;e90f9770f15a40a08e1b6670991b1cdcd5821cbb;Paul <stocker.paul@hotmail.com>;1636907868;"remove trefftz submodule
+"
+pre;jayggg_ngstents;f457cdce08da595500b3433cc7e70f67d388516b;Jay Gopalakrishnan <gjay@pdx.edu>;1642875210;"Merge pull request #26 from PaulSt/rmtrefftz
+
+remove trefftz"
+pre;jayggg_ngstents;76eb28524211e82c94d0a5ca615764fe1ad5e677;Paul <stocker.paul@hotmail.com>;1643202910;"update workflow
+"
+pre;jayggg_ngstents;1caa72c5073df20afe6a4b34ddd812f9cbc0e65a;Paul <stocker.paul@hotmail.com>;1643203508;"fix simd to double error
+"
+pre;jayggg_ngstents;2cf9da40559dcebc5376113491e90d22e053cd07;Paul <stocker.paul@hotmail.com>;1643206085;"fix simd lvalue error
+"
+pre;jayggg_ngstents;71184ca26613de6bc1c93071d8cb08dced8e2243;Jay Gopalakrishnan <gjay@pdx.edu>;1643208987;"Merge pull request #27 from PaulSt/workflows
+
+Github actions passing"
+pre;jayggg_ngstents;e52305f20f2ac8cdfc66e46a4c4b9e1947065e6e;Paul <stocker.paul@hotmail.com>;1644343562;"hotfix traversedim
+"
+pre;jayggg_ngstents;46851bdea42e6225a0deb420106dc843cd06b6f5;Paul <stocker.paul@hotmail.com>;1644346344;"replace TraverseDimensions function
+"
+pre;jayggg_ngstents;4a6c2b66e2f8e7506f061a4e2fa0e407ec17e12f;Jay Gopalakrishnan <gjay@pdx.edu>;1647713534;"Merge pull request #28 from PaulSt/traversedim
+
+hotfix traversedim"
+pre;jayggg_ngstents;7b899f3db42a5b3bfce0cd90655135575366df97;Jay Gopalakrishnan <gjay@pdx.edu>;1647714431;"merge two traversedim fixes
+"
+post;jayggg_ngstents;e60cc2aae98721287d62a1995459f0c66132d478;Jay Gopalakrishnan <gjay@pdx.edu>;1687809076;"minor
+"
+post;jayggg_ngstents;a77f54f2e23b6ef1256fb6aa7b3123add38af80d;Jay Gopalakrishnan <gjay@pdx.edu>;1687873234;"moving a 1d drawtents utility & removing unchecked code
+"
+post;jayggg_ngstents;5ec5e8fb64e64aa7a414be0766c3f7c8eddbcfac;Jay Gopalakrishnan <gjay@pdx.edu>;1687882624;"removing unused
+"
+post;jayggg_ngstents;dc5408fdf3495404de79b66ee03b9f6c5f2d4347;Jay Gopalakrishnan <gjay@pdx.edu>;1687882686;"clean up simple 1d plt draw
+"
+post;jayggg_ngstents;4c4345d89d22bf9b733473477fdd5e99d777ea4c;Jay Gopalakrishnan <gjay@pdx.edu>;1687904335;"change default to SARK due to potential bc issue with SAT
+"
+post;jayggg_ngstents;4cb91828683cccaac636c951745d7e416dcb8fa6;Jay Gopalakrishnan <gjay@pdx.edu>;1687904527;"ensuring that tests passs
+"
+post;jayggg_ngstents;2a71e396f4e1c1acdfa3473f22dc65af92a1ed3d;Jay Gopalakrishnan <gjay@pdx.edu>;1687904699;"removing nonworking code
+"
+post;jayggg_ngstents;a0efa613db858ae90222cac08239116a3e2b3398;Jay Gopalakrishnan <gjay@pdx.edu>;1687905295;"reflects recent revisions
+"
+post;jayggg_ngstents;49ac4d31aab0bba97b629498348bde056dcffa86;Jay Gopalakrishnan <gjay@pdx.edu>;1687971405;"reflects recent revisions
+"
+post;jayggg_ngstents;52d74885a32f1e7ea67d5ab20f80ced5fe4cbd40;Jay Gopalakrishnan <gjay@pdx.edu>;1688007100;"const cannot have return value
+"
+pre;tee-lab_pyddsde;e83a4395d7a6464fe52f57d2258977ce2b043d7e;ashwinkk23 <ashwinkk.23@gmail.com>;1601031208;"added test code
+"
+pre;tee-lab_pyddsde;590581685e4497de69904b61d4bccd17b2a3e132;ashwinkk23 <ashwinkk.23@gmail.com>;1601031861;"updated .gitignore
+"
+pre;tee-lab_pyddsde;a5c6819363edcfed63ce98c20d488ab64532c4d6;ashwinkk23 <ashwinkk.23@gmail.com>;1601032886;"Updated readme
+"
+pre;tee-lab_pyddsde;26fb4b6088356e1306446435b8e1e17a13509651;ashwinkk23 <ashwinkk.23@gmail.com>;1601033497;"updated .gitignore
+"
+pre;tee-lab_pyddsde;19251e74add5c68824a60189c85cf6d5a55ed021;ashwinkk23 <ashwinkk.23@gmail.com>;1601033680;"updated .gitignore
+ignore notebooks/results
+"
+pre;tee-lab_pyddsde;578b3accae09e75742702cee4939d8d2db8a46d1;Ashwin Karichannavar <30363668+ashwinkk23@users.noreply.github.com>;1601039192;Update README.md
+pre;tee-lab_pyddsde;5adb2dda235fb851de2bd708c077c3f0accdb48f;ashwinkk23 <ashwinkk.23@gmail.com>;1601043507;"linguist - make ipynb files vendored
+"
+pre;tee-lab_pyddsde;ea96e55fba80b384ff1a63185f9a9cef3fb7dea5;ashwinkk23 <ashwinkk.23@gmail.com>;1601231846;"refactored methods
+"
+pre;tee-lab_pyddsde;850950ef4fbcf7d96dcc75f3285f0562d2110c5b;ashwinkk23 <ashwinkk.23@gmail.com>;1601241384;"Modifies notebook files
+"
+pre;tee-lab_pyddsde;cf1e4d8cab9aa50875db7f31a670658ddc483097;ashwinkk23 <ashwinkk.23@gmail.com>;1601242027;"Updated notebook files
+"
+post;tee-lab_pyddsde;2c096d6cfbbea663d307be7579ff15030c0e93b8;ashwinkk23 <ashwinkk.23@gmail.com>;1608634743;"Added nfft method
+Added |M|^2 to calculate autocorrelation time
+"
+post;tee-lab_pyddsde;966c2f9143b871e4027b8f8aa3c1eefd74ea6afa;ashwinkk23 <ashwinkk.23@gmail.com>;1608717065;"optimized
+"
+post;tee-lab_pyddsde;0d82142f1d29fe966c259a5844f7c4ff9e2b1cf8;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored mehtods
+Added nfft method
+Modified codes to calculate optimium timescale using |M|^2
+Optimised 3d plotting codes
+"
+post;tee-lab_pyddsde;90454a5258850bfc99168df6f0b59bc1dca5c911;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored methods
+Added nfft method
+Modified codes to calculate optimium timescale using |M|^2
+Optimised 3d plotting codes
+"
+post;tee-lab_pyddsde;c7a7ce5d9f56478bef83389a6f5dfb4a73a20b72;ashwinkk23 <ashwinkk.23@gmail.com>;1608718888;"Merge branch 'master' of https://github.com/tee-lab/pyFish
+"
+post;tee-lab_pyddsde;9ece5a30d59e6531d2ce91f8b49930c842b30d21;ashwinkk23 <ashwinkk.23@gmail.com>;1608728035;"Changed plot axis lables
+"
+post;tee-lab_pyddsde;1591816b8132eae53e4c3b14a2501665fa8fe3ba;ashwinkk23 <ashwinkk.23@gmail.com>;1609646373;"fixed 3d hist plot
+"
+post;tee-lab_pyddsde;683df5d57acd4ebcdbf8aa6f8ae17b3685c88cb8;ashwinkk23 <ashwinkk.23@gmail.com>;1609646818;"Merge remote-tracking branch 'origin/master' into optimium_timescale
+"
+post;tee-lab_pyddsde;5cd0fce4eb6f46a14c7ac707d53ebcf191e2c4f4;ashwinkk23 <ashwinkk.23@gmail.com>;1609678857;"added synthetic data
+"
+post;tee-lab_pyddsde;48e8ba0c8bb0d8bb8ac3d0612a02c8ee412e0ecd;ashwinkk23 <ashwinkk.23@gmail.com>;1610105804;"removed some data files
+"
 pre;vatlab_sos;7b501956767d0012c785ef0df033a336eb6f0612;Bo Peng <ben.bob@gmail.com>;1712711970;"Python 3.11 and below compatibility
 "
 pre;vatlab_sos;070ab49ab423ee934beaa7f9cadb5a07d9e4f60c;Bo Peng <ben.bob@gmail.com>;1712722677;"Try to fix task related tests for python 3.9
@@ -304,140 +438,6 @@ This is the correct pattern for directory changes in Invoke tasks,
 as it safely restores the original directory after the task completes.
 "
 post;vatlab_sos;67b9e6ce22e0245dcd1a6e4a5873ff822b00097b;Bo Peng <ben.bob@gmail.com>;1762385430;"improve type annotation
-"
-pre;jayggg_ngstents;e90f9770f15a40a08e1b6670991b1cdcd5821cbb;Paul <stocker.paul@hotmail.com>;1636907868;"remove trefftz submodule
-"
-pre;jayggg_ngstents;f457cdce08da595500b3433cc7e70f67d388516b;Jay Gopalakrishnan <gjay@pdx.edu>;1642875210;"Merge pull request #26 from PaulSt/rmtrefftz
-
-remove trefftz"
-pre;jayggg_ngstents;76eb28524211e82c94d0a5ca615764fe1ad5e677;Paul <stocker.paul@hotmail.com>;1643202910;"update workflow
-"
-pre;jayggg_ngstents;1caa72c5073df20afe6a4b34ddd812f9cbc0e65a;Paul <stocker.paul@hotmail.com>;1643203508;"fix simd to double error
-"
-pre;jayggg_ngstents;2cf9da40559dcebc5376113491e90d22e053cd07;Paul <stocker.paul@hotmail.com>;1643206085;"fix simd lvalue error
-"
-pre;jayggg_ngstents;71184ca26613de6bc1c93071d8cb08dced8e2243;Jay Gopalakrishnan <gjay@pdx.edu>;1643208987;"Merge pull request #27 from PaulSt/workflows
-
-Github actions passing"
-pre;jayggg_ngstents;e52305f20f2ac8cdfc66e46a4c4b9e1947065e6e;Paul <stocker.paul@hotmail.com>;1644343562;"hotfix traversedim
-"
-pre;jayggg_ngstents;46851bdea42e6225a0deb420106dc843cd06b6f5;Paul <stocker.paul@hotmail.com>;1644346344;"replace TraverseDimensions function
-"
-pre;jayggg_ngstents;4a6c2b66e2f8e7506f061a4e2fa0e407ec17e12f;Jay Gopalakrishnan <gjay@pdx.edu>;1647713534;"Merge pull request #28 from PaulSt/traversedim
-
-hotfix traversedim"
-pre;jayggg_ngstents;7b899f3db42a5b3bfce0cd90655135575366df97;Jay Gopalakrishnan <gjay@pdx.edu>;1647714431;"merge two traversedim fixes
-"
-post;jayggg_ngstents;e60cc2aae98721287d62a1995459f0c66132d478;Jay Gopalakrishnan <gjay@pdx.edu>;1687809076;"minor
-"
-post;jayggg_ngstents;a77f54f2e23b6ef1256fb6aa7b3123add38af80d;Jay Gopalakrishnan <gjay@pdx.edu>;1687873234;"moving a 1d drawtents utility & removing unchecked code
-"
-post;jayggg_ngstents;5ec5e8fb64e64aa7a414be0766c3f7c8eddbcfac;Jay Gopalakrishnan <gjay@pdx.edu>;1687882624;"removing unused
-"
-post;jayggg_ngstents;dc5408fdf3495404de79b66ee03b9f6c5f2d4347;Jay Gopalakrishnan <gjay@pdx.edu>;1687882686;"clean up simple 1d plt draw
-"
-post;jayggg_ngstents;4c4345d89d22bf9b733473477fdd5e99d777ea4c;Jay Gopalakrishnan <gjay@pdx.edu>;1687904335;"change default to SARK due to potential bc issue with SAT
-"
-post;jayggg_ngstents;4cb91828683cccaac636c951745d7e416dcb8fa6;Jay Gopalakrishnan <gjay@pdx.edu>;1687904527;"ensuring that tests passs
-"
-post;jayggg_ngstents;2a71e396f4e1c1acdfa3473f22dc65af92a1ed3d;Jay Gopalakrishnan <gjay@pdx.edu>;1687904699;"removing nonworking code
-"
-post;jayggg_ngstents;a0efa613db858ae90222cac08239116a3e2b3398;Jay Gopalakrishnan <gjay@pdx.edu>;1687905295;"reflects recent revisions
-"
-post;jayggg_ngstents;49ac4d31aab0bba97b629498348bde056dcffa86;Jay Gopalakrishnan <gjay@pdx.edu>;1687971405;"reflects recent revisions
-"
-post;jayggg_ngstents;52d74885a32f1e7ea67d5ab20f80ced5fe4cbd40;Jay Gopalakrishnan <gjay@pdx.edu>;1688007100;"const cannot have return value
-"
-pre;inqwire_sqir;cc3f4f06a113bb82fe50ed29e3de2a7ca475f7c3;Kesha Hietala <kesha@cs.umd.edu>;1680962133;"various updates to build system & directions for extraction
-"
-pre;inqwire_sqir;b1a3ef452c95f13a9a3f79fb26064a21df1570ab;Kesha Hietala <kesha@cs.umd.edu>;1680962175;"Merge branch 'main' into update-build
-"
-pre;inqwire_sqir;a4963db6d23318e9931b02853a8dc0faa94bf2bd;BHAKTISHAH <shahbhakti21@gmail.com>;1681513692;"8.17 compatibility for sqir
-"
-pre;inqwire_sqir;c620fa705151c1c9d27b0ecea0a2afe7b2e960a8;BHAKTISHAH <shahbhakti21@gmail.com>;1681613064;"voqc compiling on 8.17
-"
-pre;inqwire_sqir;b35c50a9ed90379831b3602da041ddb68e63dea8;BHAKTISHAH <shahbhakti21@gmail.com>;1681683621;"version bumps + dune changes
-"
-pre;inqwire_sqir;1f2db24aefbc18b1545332238e89b1b143fa318a;BHAKTISHAH <shahbhakti21@gmail.com>;1681683921;"version bump
-"
-pre;inqwire_sqir;320f6946470e6ed67b679d7155ecb17ea66fc163;Kesha Hietala <kesha@cs.umd.edu>;1681745091;"Merge pull request #51 from inQWIRE/update-build
-
-Various restructuring / build edits"
-pre;inqwire_sqir;dc7e0d7df952e182c118488f8b92333bdeb6c952;Ben Caldwell <53534983+caldwellb@users.noreply.github.com>;1683729792;"Merge pull request #53 from inQWIRE/main
-
-main -> add-ci"
-pre;inqwire_sqir;e24080530a4ee5ad43305de45913595f4914c99a;Ben Caldwell <caldwellb@uchicago.edu>;1683730945;"Remove SQIR as theory of VOQC
-"
-pre;inqwire_sqir;a76b448bf2d922ec9f495ca3f599534d0437cda5;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1683733705;"Merge pull request #50 from inQWIRE/add-ci
-
-Add CI for SQIR and VOQC"
-post;inqwire_sqir;d632f9e0c11a5f3843904211ccf0fba041ef7130;Adrian Lehmann <info@adrianlehmann.net>;1706296180;"Fix readme pin git url
-"
-post;inqwire_sqir;3e4b8228ed7a5ef09e3c2d65af454a0e7e39bb8d;Adrian Lehmann <info@adrianlehmann.net>;1706567281;"Merge branch 'main' into v8.17
-"
-post;inqwire_sqir;aa72b66a7631e4cbc8dfca96409c7f19b5db4a53;Adrian Lehmann <info@adrianlehmann.net>;1706567864;"Update build files to 1.3.0
-"
-post;inqwire_sqir;2403893ed2416276dbc49b269bde83ce42e37741;Adrian Lehmann <info@adrianlehmann.net>;1706568964;"Merge remote-tracking branch 'origin/main' into v8.17
-"
-post;inqwire_sqir;d7c4abd089e817f78665d938fb853d2daf3daf33;Adrian Lehmann <info@adrianlehmann.net>;1706635474;"Update CI to 8.16-8.18
-"
-post;inqwire_sqir;2e0a6123b97f1fb410ca722826af60e0be7f08e8;Adrian Lehmann <info@adrianlehmann.net>;1706638845;"Upgrade VOQC to work with 8.18
-"
-post;inqwire_sqir;d31084e9726f8b300f3e6972746b95cf2a5bd120;timotheeMM <143833750+timotheeMM@users.noreply.github.com>;1706859982;#55: Fix broken link and typo in README
-post;inqwire_sqir;d17539e96cb519fbbc728e85d6d684d6121d0611;Robert Rand <rnrand@gmail.com>;1706895225;"Merge pull request #56 from timotheeMM/patch-1
-
-#55: Fix broken link and typo in README"
-post;inqwire_sqir;af3aae99c9dfd1f268947b2299d86c53b1041a37;Adrian Lehmann <26521502+adrianleh@users.noreply.github.com>;1706977207;"Merge pull request #54 from inQWIRE/v8.17
-
-"
-post;inqwire_sqir;a406cd74fadfbe6083f63b2a8afa0fd37c0fd153;Adrian Lehmann <info@adrianlehmann.net>;1711412939;"Emergency patch: Disallow building voqc with qlib 1.4.0 as it causes infinite loop
-"
-pre;tee-lab_pyddsde;e83a4395d7a6464fe52f57d2258977ce2b043d7e;ashwinkk23 <ashwinkk.23@gmail.com>;1601031208;"added test code
-"
-pre;tee-lab_pyddsde;590581685e4497de69904b61d4bccd17b2a3e132;ashwinkk23 <ashwinkk.23@gmail.com>;1601031861;"updated .gitignore
-"
-pre;tee-lab_pyddsde;a5c6819363edcfed63ce98c20d488ab64532c4d6;ashwinkk23 <ashwinkk.23@gmail.com>;1601032886;"Updated readme
-"
-pre;tee-lab_pyddsde;26fb4b6088356e1306446435b8e1e17a13509651;ashwinkk23 <ashwinkk.23@gmail.com>;1601033497;"updated .gitignore
-"
-pre;tee-lab_pyddsde;19251e74add5c68824a60189c85cf6d5a55ed021;ashwinkk23 <ashwinkk.23@gmail.com>;1601033680;"updated .gitignore
-ignore notebooks/results
-"
-pre;tee-lab_pyddsde;578b3accae09e75742702cee4939d8d2db8a46d1;Ashwin Karichannavar <30363668+ashwinkk23@users.noreply.github.com>;1601039192;Update README.md
-pre;tee-lab_pyddsde;5adb2dda235fb851de2bd708c077c3f0accdb48f;ashwinkk23 <ashwinkk.23@gmail.com>;1601043507;"linguist - make ipynb files vendored
-"
-pre;tee-lab_pyddsde;ea96e55fba80b384ff1a63185f9a9cef3fb7dea5;ashwinkk23 <ashwinkk.23@gmail.com>;1601231846;"refactored methods
-"
-pre;tee-lab_pyddsde;850950ef4fbcf7d96dcc75f3285f0562d2110c5b;ashwinkk23 <ashwinkk.23@gmail.com>;1601241384;"Modifies notebook files
-"
-pre;tee-lab_pyddsde;cf1e4d8cab9aa50875db7f31a670658ddc483097;ashwinkk23 <ashwinkk.23@gmail.com>;1601242027;"Updated notebook files
-"
-post;tee-lab_pyddsde;2c096d6cfbbea663d307be7579ff15030c0e93b8;ashwinkk23 <ashwinkk.23@gmail.com>;1608634743;"Added nfft method
-Added |M|^2 to calculate autocorrelation time
-"
-post;tee-lab_pyddsde;966c2f9143b871e4027b8f8aa3c1eefd74ea6afa;ashwinkk23 <ashwinkk.23@gmail.com>;1608717065;"optimized
-"
-post;tee-lab_pyddsde;0d82142f1d29fe966c259a5844f7c4ff9e2b1cf8;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored mehtods
-Added nfft method
-Modified codes to calculate optimium timescale using |M|^2
-Optimised 3d plotting codes
-"
-post;tee-lab_pyddsde;90454a5258850bfc99168df6f0b59bc1dca5c911;ashwinkk23 <ashwinkk.23@gmail.com>;1608718593;"Refactored methods
-Added nfft method
-Modified codes to calculate optimium timescale using |M|^2
-Optimised 3d plotting codes
-"
-post;tee-lab_pyddsde;c7a7ce5d9f56478bef83389a6f5dfb4a73a20b72;ashwinkk23 <ashwinkk.23@gmail.com>;1608718888;"Merge branch 'master' of https://github.com/tee-lab/pyFish
-"
-post;tee-lab_pyddsde;9ece5a30d59e6531d2ce91f8b49930c842b30d21;ashwinkk23 <ashwinkk.23@gmail.com>;1608728035;"Changed plot axis lables
-"
-post;tee-lab_pyddsde;1591816b8132eae53e4c3b14a2501665fa8fe3ba;ashwinkk23 <ashwinkk.23@gmail.com>;1609646373;"fixed 3d hist plot
-"
-post;tee-lab_pyddsde;683df5d57acd4ebcdbf8aa6f8ae17b3685c88cb8;ashwinkk23 <ashwinkk.23@gmail.com>;1609646818;"Merge remote-tracking branch 'origin/master' into optimium_timescale
-"
-post;tee-lab_pyddsde;5cd0fce4eb6f46a14c7ac707d53ebcf191e2c4f4;ashwinkk23 <ashwinkk.23@gmail.com>;1609678857;"added synthetic data
-"
-post;tee-lab_pyddsde;48e8ba0c8bb0d8bb8ac3d0612a02c8ee412e0ecd;ashwinkk23 <ashwinkk.23@gmail.com>;1610105804;"removed some data files
 "
 pre;windweller_disextract;0d4be2e3e012197f49ae489c25775f1ccd63fb07;Allen Nie <leo.niecn@gmail.com>;1558059110;Update README.md
 pre;windweller_disextract;8233688d0935d9288de323e4adabbb4a3e75ccaf;Allen Nie <leo.niecn@gmail.com>;1559266107;Update README.md
